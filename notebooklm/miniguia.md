@@ -8,7 +8,7 @@ Utilizado para definir quais informações serão exibidas.
 SELECT nome, cidade
 FROM clientes;
 
-## 2. WHERE
+##2. WHERE
 
 Utilizado para filtrar registros.
 
@@ -25,7 +25,7 @@ FROM clientes c
 JOIN contas ct
     ON c.cpf = ct.cpf_cliente;
 
-## 4. GROUP BY
+##4. GROUP BY
 
 Utilizado para agrupar informações.
 
